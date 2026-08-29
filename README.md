@@ -2,7 +2,7 @@
 
 > Engineer by training, developer by passion, problem-solver by habit.
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mironovsergey\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mironovsergey\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
